@@ -29,7 +29,7 @@ include(VIEWS_PATH . "header.php");
         <header>
             <nav>
                 <a href="index.html" class="logo">
-                    <img src="../img/logo.jpg" alt="logo de la compañia">
+                   
                     <h2 class="nombre-empresa">Konrad Teck</h2>
                 </a>
             </nav>
