@@ -86,11 +86,7 @@ include(VIEWS_PATH . "header.php");
 <br>
 
 <div class="container-fluid">
-        <div class="row">
-            <div class="col-md-12">
-                <img src="../img/principalarcade.jpg" height="450px" width="100%" class="imgprincipal">
-            </div>
-        </div>
+       
         <div class="row">
             <div class="col-md-4">
                 <div class="card" style="width: 23rem;">
